@@ -1,0 +1,1406 @@
+fileFormatVersion: 2
+guid: 9934fe351563749489ff7de038bc4b9d
+timeCreated: 1504119893
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_forehorseman__x1_idle_png_1355170558_0
+    21300002: npc_forehorseman__x1_idle_png_1355170558_1
+    21300004: npc_forehorseman__x1_idle_png_1355170558_2
+    21300006: npc_forehorseman__x1_idle_png_1355170558_3
+    21300008: npc_forehorseman__x1_idle_png_1355170558_4
+    21300010: npc_forehorseman__x1_idle_png_1355170558_5
+    21300012: npc_forehorseman__x1_idle_png_1355170558_6
+    21300014: npc_forehorseman__x1_idle_png_1355170558_7
+    21300016: npc_forehorseman__x1_idle_png_1355170558_8
+    21300018: npc_forehorseman__x1_idle_png_1355170558_9
+    21300020: npc_forehorseman__x1_idle_png_1355170558_10
+    21300022: npc_forehorseman__x1_idle_png_1355170558_11
+    21300024: npc_forehorseman__x1_idle_png_1355170558_12
+    21300026: npc_forehorseman__x1_idle_png_1355170558_13
+    21300028: npc_forehorseman__x1_idle_png_1355170558_14
+    21300030: npc_forehorseman__x1_idle_png_1355170558_15
+    21300032: npc_forehorseman__x1_idle_png_1355170558_16
+    21300034: npc_forehorseman__x1_idle_png_1355170558_17
+    21300036: npc_forehorseman__x1_idle_png_1355170558_18
+    21300038: npc_forehorseman__x1_idle_png_1355170558_19
+    21300040: npc_forehorseman__x1_idle_png_1355170558_20
+    21300042: npc_forehorseman__x1_idle_png_1355170558_21
+    21300044: npc_forehorseman__x1_idle_png_1355170558_22
+    21300046: npc_forehorseman__x1_idle_png_1355170558_23
+    21300048: npc_forehorseman__x1_idle_png_1355170558_24
+    21300050: npc_forehorseman__x1_idle_png_1355170558_25
+    21300052: npc_forehorseman__x1_idle_png_1355170558_26
+    21300054: npc_forehorseman__x1_idle_png_1355170558_27
+    21300056: npc_forehorseman__x1_idle_png_1355170558_28
+    21300058: npc_forehorseman__x1_idle_png_1355170558_29
+    21300060: npc_forehorseman__x1_idle_png_1355170558_30
+    21300062: npc_forehorseman__x1_idle_png_1355170558_31
+    21300064: npc_forehorseman__x1_idle_png_1355170558_32
+    21300066: npc_forehorseman__x1_idle_png_1355170558_33
+    21300068: npc_forehorseman__x1_idle_png_1355170558_34
+    21300070: npc_forehorseman__x1_idle_png_1355170558_35
+    21300072: npc_forehorseman__x1_idle_png_1355170558_36
+    21300074: npc_forehorseman__x1_idle_png_1355170558_37
+    21300076: npc_forehorseman__x1_idle_png_1355170558_38
+    21300078: npc_forehorseman__x1_idle_png_1355170558_39
+    21300080: npc_forehorseman__x1_idle_png_1355170558_40
+    21300082: npc_forehorseman__x1_idle_png_1355170558_41
+    21300084: npc_forehorseman__x1_idle_png_1355170558_42
+    21300086: npc_forehorseman__x1_idle_png_1355170558_43
+    21300088: npc_forehorseman__x1_idle_png_1355170558_44
+    21300090: npc_forehorseman__x1_idle_png_1355170558_45
+    21300092: npc_forehorseman__x1_idle_png_1355170558_46
+    21300094: npc_forehorseman__x1_idle_png_1355170558_47
+    21300096: npc_forehorseman__x1_idle_png_1355170558_48
+    21300098: npc_forehorseman__x1_idle_png_1355170558_49
+    21300100: npc_forehorseman__x1_idle_png_1355170558_50
+    21300102: npc_forehorseman__x1_idle_png_1355170558_51
+    21300104: npc_forehorseman__x1_idle_png_1355170558_52
+    21300106: npc_forehorseman__x1_idle_png_1355170558_53
+    21300108: npc_forehorseman__x1_idle_png_1355170558_54
+    21300110: npc_forehorseman__x1_idle_png_1355170558_55
+    21300112: npc_forehorseman__x1_idle_png_1355170558_56
+    21300114: npc_forehorseman__x1_idle_png_1355170558_57
+    21300116: npc_forehorseman__x1_idle_png_1355170558_58
+    21300118: npc_forehorseman__x1_idle_png_1355170558_59
+    21300120: npc_forehorseman__x1_idle_png_1355170558_60
+    21300122: npc_forehorseman__x1_idle_png_1355170558_61
+    21300124: npc_forehorseman__x1_idle_png_1355170558_62
+    21300126: npc_forehorseman__x1_idle_png_1355170558_63
+    21300128: npc_forehorseman__x1_idle_png_1355170558_64
+    21300130: npc_forehorseman__x1_idle_png_1355170558_65
+    21300132: npc_forehorseman__x1_idle_png_1355170558_66
+    21300134: npc_forehorseman__x1_idle_png_1355170558_67
+    21300136: npc_forehorseman__x1_idle_png_1355170558_68
+    21300138: npc_forehorseman__x1_idle_png_1355170558_69
+    21300140: npc_forehorseman__x1_idle_png_1355170558_70
+    21300142: npc_forehorseman__x1_idle_png_1355170558_71
+    21300144: npc_forehorseman__x1_idle_png_1355170558_72
+    21300146: npc_forehorseman__x1_idle_png_1355170558_73
+    21300148: npc_forehorseman__x1_idle_png_1355170558_74
+    21300150: npc_forehorseman__x1_idle_png_1355170558_75
+    21300152: npc_forehorseman__x1_idle_png_1355170558_76
+    21300154: npc_forehorseman__x1_idle_png_1355170558_77
+    21300156: npc_forehorseman__x1_idle_png_1355170558_78
+    21300158: npc_forehorseman__x1_idle_png_1355170558_79
+    21300160: npc_forehorseman__x1_idle_png_1355170558_80
+    21300162: npc_forehorseman__x1_idle_png_1355170558_81
+    21300164: npc_forehorseman__x1_idle_png_1355170558_82
+    21300166: npc_forehorseman__x1_idle_png_1355170558_83
+    21300168: npc_forehorseman__x1_idle_png_1355170558_84
+    21300170: npc_forehorseman__x1_idle_png_1355170558_85
+    21300172: npc_forehorseman__x1_idle_png_1355170558_86
+    21300174: npc_forehorseman__x1_idle_png_1355170558_87
+    21300176: npc_forehorseman__x1_idle_png_1355170558_88
+    21300178: npc_forehorseman__x1_idle_png_1355170558_89
+    21300180: npc_forehorseman__x1_idle_png_1355170558_90
+    21300182: npc_forehorseman__x1_idle_png_1355170558_91
+    21300184: npc_forehorseman__x1_idle_png_1355170558_92
+    21300186: npc_forehorseman__x1_idle_png_1355170558_93
+    21300188: npc_forehorseman__x1_idle_png_1355170558_94
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_4
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_9
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_14
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_18
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_24
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_28
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_29
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_32
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_33
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_34
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_42
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_43
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_44
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_47
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_48
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_49
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_52
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_53
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_54
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_57
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_58
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_59
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_62
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_63
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_64
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_66
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_67
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_68
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_69
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_71
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_72
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_73
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_74
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_77
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_78
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_79
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_81
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_82
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_83
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_84
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_86
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_87
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_88
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_89
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_91
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_92
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_93
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_idle_png_1355170558_94
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
